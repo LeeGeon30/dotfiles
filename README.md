@@ -17,7 +17,7 @@ curl -fsSL https://dotfiles.wook.kr/etc/install | bash
 An alternative:
 
 ```bash
-git clone --recursive https://github.com/wonkyunglee/dotfiles.git ~/.dotfiles
+git clone --recursive https://github.com/LeeGeon30/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles && python install.py
 ```
 <!--
